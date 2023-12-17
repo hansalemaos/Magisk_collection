@@ -26,3 +26,5 @@ https://github.com/termux/termux-app
 
 For python:
 Try pkg up and then pkg rei libexpat.
+
+https://github.com/sunilpaulmathew/De-Bloater/releases/tag/v0.26
