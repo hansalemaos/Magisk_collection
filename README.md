@@ -17,3 +17,5 @@ https://github.com/Xposed-Modules-Repo/com.varuns2002.disable_flag_secure/releas
 https://github.com/wardellbagby/sensor-disabler
 
 https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf
+
+https://f-droid.org/de/packages/net.guildem.publicip/
