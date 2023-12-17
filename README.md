@@ -28,3 +28,4 @@ For python:
 Try pkg up and then pkg rei libexpat.
 
 https://github.com/sunilpaulmathew/De-Bloater/releases/tag/v0.26
+https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction
