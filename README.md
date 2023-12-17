@@ -15,3 +15,5 @@ https://github.com/2Y2s1mple/xintent
 https://github.com/Xposed-Modules-Repo/com.varuns2002.disable_flag_secure/releases/tag/2-2.0.0
 
 https://github.com/wardellbagby/sensor-disabler
+
+https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf
