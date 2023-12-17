@@ -21,3 +21,5 @@ https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf
 https://f-droid.org/de/packages/net.guildem.publicip/
 
 https://f-droid.org/de/packages/org.fsociety.vernet/
+
+https://github.com/termux/termux-app
