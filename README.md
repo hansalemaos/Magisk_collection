@@ -19,3 +19,5 @@ https://github.com/wardellbagby/sensor-disabler
 https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf
 
 https://f-droid.org/de/packages/net.guildem.publicip/
+
+https://f-droid.org/de/packages/org.fsociety.vernet/
